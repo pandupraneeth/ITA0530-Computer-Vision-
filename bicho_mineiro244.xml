@@ -1,0 +1,1 @@
+<annotation><filename>bicho_mineiro244.jpg</filename><size><width>4000</width><height>2250</height><depth>3</depth></size><object><name>bicho_mineiro</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>1894</xmin><ymin>1094</ymin><xmax>2633</xmax><ymax>1655</ymax></bndbox></object></annotation>
